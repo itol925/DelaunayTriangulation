@@ -1,0 +1,9 @@
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\bin\Debug\DelaunayTriangulation.exe.config
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\bin\Debug\DelaunayTriangulation.exe
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\bin\Debug\DelaunayTriangulation.pdb
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.csprojResolveAssemblyReference.cache
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.Form1.resources
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.Properties.Resources.resources
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.csproj.GenerateResource.Cache
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.exe
+E:\projects\DelaunayTriangulation\DelaunayTriangulation\obj\Debug\DelaunayTriangulation.pdb
